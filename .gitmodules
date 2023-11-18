@@ -1,0 +1,3 @@
+[submodule "migrations-shared"]
+	path = migrations-shared
+	url = git@github.com:rags02/migrations-shared.git
